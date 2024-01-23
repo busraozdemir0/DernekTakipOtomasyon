@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekTakipOtomasyon", "DernekTakipOtomasyon\DernekTakipOtomasyon.csproj", "{5DF54152-DF96-40FD-93B3-E9CA301E4A69}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DernekTakipSetup", "DernekTakipSetup\DernekTakipSetup.vdproj", "{71A4AA47-94C6-47B4-9EAE-65028976C523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF54152-DF96-40FD-93B3-E9CA301E4A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF54152-DF96-40FD-93B3-E9CA301E4A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF54152-DF96-40FD-93B3-E9CA301E4A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF54152-DF96-40FD-93B3-E9CA301E4A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A4AA47-94C6-47B4-9EAE-65028976C523}.Debug|Any CPU.ActiveCfg = Debug
+		{71A4AA47-94C6-47B4-9EAE-65028976C523}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4EA515-F459-4090-AB79-24D73E3E4136}
+	EndGlobalSection
+EndGlobal
